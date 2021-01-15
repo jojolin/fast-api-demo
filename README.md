@@ -1,6 +1,6 @@
 # fast api demo
 - This is just a demo project to show fast usage
-- most code comes directory from [fastapi website](https://fastapi.tiangolo.com/)
+- most code comes directly from [fastapi website](https://fastapi.tiangolo.com/)
 
 ## include
 
