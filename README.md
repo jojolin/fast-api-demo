@@ -11,7 +11,7 @@
 
 ## usage
 - require `python 3.6+`
-- `pip install -r requirements.txt`
-- `cd src && ADMIN_EMAIL=your-email@xx.com python -m apidemo.webserver`
+- `cd src && pip install -r requirements.txt`
+- `ADMIN_EMAIL=your-email@xx.com python -m apidemo.webserver`
 - open your browser on `http://localhost:8000`
 - Authorize with `user: aaa`, `password: aaa`
