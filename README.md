@@ -15,3 +15,8 @@
 - `ADMIN_EMAIL=your-email@xx.com python -m apidemo.webserver`
 - open your browser on `http://localhost:8000`
 - Authorize with `user: aaa`, `password: aaa`
+
+## snpashots
+![](1.png)
+![](2.png)
+![](3.png)
